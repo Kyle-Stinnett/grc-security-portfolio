@@ -62,4 +62,4 @@ This risk was prioritized as high and requires immediate remediation to reduce e
 
 ## Key Takeaway
 
-This scenario highlights the importance of not only identifying and mitigating risks, but also coordinating across teams to ensure controls are effectively implemented and sustained.
+Effective risk management requires not only identifying and mitigating risks, but also coordinating across teams, managing real-world challenges, and ensuring sustained control effectiveness.

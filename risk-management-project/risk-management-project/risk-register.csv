@@ -1,0 +1,4 @@
+Risk ID,Risk Description,Likelihood,Impact,Risk Score,Mitigation Strategy,Framework Mapping
+R1,Unauthorized system access,4,5,20,Implement MFA and access reviews,ISO A.9 / SOC2 CC6 / NIST AC
+R2,Insufficient logging,3,4,12,Enable centralized logging,ISO A.12 / SOC2 CC7 / NIST AU
+R3,Unpatched systems,4,4,16,Implement patching process,ISO A.12 / SOC2 CC8 / NIST CM

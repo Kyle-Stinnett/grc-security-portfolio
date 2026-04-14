@@ -5,6 +5,7 @@ This project demonstrates a practical approach to identifying, assessing, and mi
 ## Scenario
 A fictional SaaS company handling customer data lacks formalized security controls, increasing the risk of unauthorized access and data exposure.
 
+## Scenario Context
 All projects simulate a SaaS company handling sensitive customer data, requiring strong security and compliance controls.
 
 All projects in this portfolio are based on a fictional SaaS company to simulate real-world GRC responsibilities, including risk management, audit support, and control implementation.
@@ -38,4 +39,4 @@ Risks are evaluated using:
 
 ## Outcome
 This risk was prioritized as high and requires immediate remediation to reduce exposure.
-## Scenario Context
+

@@ -2,6 +2,10 @@
 
 This project demonstrates a practical approach to identifying, assessing, and mitigating cybersecurity risks in a mid-sized enterprise environment.
 
+## Business Context
+
+This scenario represents a SaaS organization responsible for protecting sensitive customer data, where inadequate access controls could result in regulatory, financial, and reputational impact.
+
 ## Scenario
 A fictional SaaS company handling customer data lacks formalized security controls, increasing the risk of unauthorized access and data exposure.
 

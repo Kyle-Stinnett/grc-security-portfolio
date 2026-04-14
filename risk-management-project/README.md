@@ -1,18 +1,36 @@
 # Risk Management Project
 
-This project demonstrates a structured approach to identifying, assessing, and managing cybersecurity risks.
+This project demonstrates a practical approach to identifying, assessing, and mitigating cybersecurity risks in a mid-sized enterprise environment.
+
+## Scenario
+A fictional SaaS company handling customer data lacks formalized security controls, increasing the risk of unauthorized access and data exposure.
 
 ## Methodology
+Risks are evaluated using:
 - Likelihood (1–5)
 - Impact (1–5)
 - Risk Score = Likelihood × Impact
 
-## Framework Alignment
-- ISO 27001: Clause 6
-- SOC 2: CC3
-- NIST CSF: ID.RA
+## Sample Risk Analysis
 
-## Sample Risks
-- Unauthorized access
-- Lack of MFA
-- Insufficient logging
+### Risk: Unauthorized System Access
+- Likelihood: 4 (High due to lack of MFA)
+- Impact: 5 (Critical systems exposed)
+- Risk Score: 20 (High)
+
+### Root Cause
+- No multi-factor authentication (MFA)
+- Weak access control policies
+
+### Mitigation Plan
+- Implement MFA across all systems
+- Conduct quarterly access reviews
+- Enforce least privilege access
+
+## Framework Alignment
+- ISO 27001: A.9 (Access Control)
+- SOC 2: CC6 (Logical Access)
+- NIST CSF: PR.AC (Access Control)
+
+## Outcome
+This risk was prioritized as high and requires immediate remediation to reduce exposure.

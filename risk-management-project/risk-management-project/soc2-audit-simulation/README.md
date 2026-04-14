@@ -27,3 +27,18 @@ Management performs quarterly reviews of user access to ensure appropriate permi
 
 ## Outcome
 The control is considered effective if all users are reviewed and discrepancies are resolved.
+## Auditor Testing Approach
+
+As an auditor, I would:
+
+1. Obtain a list of all system users
+2. Review evidence of quarterly access reviews
+3. Select a sample of users and verify:
+   - Access is appropriate for role
+   - Unauthorized access is removed
+4. Confirm management approval is documented
+
+## Pass Criteria
+- All users reviewed quarterly
+- Evidence of approval exists
+- No excessive privileges remain

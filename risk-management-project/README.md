@@ -40,3 +40,11 @@ Risks are evaluated using:
 ## Outcome
 This risk was prioritized as high and requires immediate remediation to reduce exposure.
 
+## Stakeholder Coordination
+
+To remediate this risk, I would work with:
+- Engineering teams to implement MFA
+- IT administrators to enforce access controls
+- Management to review and approve access changes
+
+Regular follow-ups would be conducted to ensure remediation timelines are met.

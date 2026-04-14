@@ -56,3 +56,6 @@ These challenges would be addressed through prioritization, escalation, and clea
 ## Outcome
 This risk was prioritized as high and requires immediate remediation to reduce exposure.
 
+## Key Takeaway
+
+This scenario highlights the importance of not only identifying and mitigating risks, but also coordinating across teams to ensure controls are effectively implemented and sustained.

@@ -31,15 +31,7 @@ Risks are evaluated using:
 - Implement MFA across all systems
 - Conduct quarterly access reviews
 - Enforce least privilege access
-
-## Framework Alignment
-- ISO 27001: A.9 (Access Control)
-- SOC 2: CC6 (Logical Access)
-- NIST CSF: PR.AC (Access Control)
-
-## Outcome
-This risk was prioritized as high and requires immediate remediation to reduce exposure.
-
+- 
 ## Stakeholder Coordination
 
 To remediate this risk, I would work with:
@@ -48,3 +40,19 @@ To remediate this risk, I would work with:
 - Management to review and approve access changes
 
 Regular follow-ups would be conducted to ensure remediation timelines are met.
+
+## Potential Challenges
+
+- Engineering teams may have competing priorities delaying MFA implementation  
+- Incomplete user inventories may impact access review accuracy  
+- Resistance to access changes from business users  
+
+These challenges would be addressed through prioritization, escalation, and clear communication of risk impact.
+## Framework Alignment
+- ISO 27001: A.9 (Access Control)
+- SOC 2: CC6 (Logical Access)
+- NIST CSF: PR.AC (Access Control)
+
+## Outcome
+This risk was prioritized as high and requires immediate remediation to reduce exposure.
+

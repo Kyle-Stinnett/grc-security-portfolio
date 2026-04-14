@@ -35,7 +35,7 @@ Risks are evaluated using:
 - Implement MFA across all systems
 - Conduct quarterly access reviews
 - Enforce least privilege access
-- 
+  
 ## Stakeholder Coordination
 
 To remediate this risk, I would work with:

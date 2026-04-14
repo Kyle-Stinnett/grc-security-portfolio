@@ -42,3 +42,22 @@ As an auditor, I would:
 - All users reviewed quarterly
 - Evidence of approval exists
 - No excessive privileges remain
+## Example Audit Evidence
+
+Sample evidence for access reviews may include:
+- Exported user access lists (CSV format)
+- Screenshots of access review approvals
+- Ticketing system records showing access removal
+
+This evidence would be evaluated for completeness, accuracy, and approval.
+
+## Example Control Failure
+
+If access reviews are not performed:
+- Unauthorized users may retain access
+- Risk of data exposure increases
+
+### Auditor Conclusion
+The control would be deemed ineffective if:
+- Reviews are not performed consistently
+- Evidence is missing or incomplete

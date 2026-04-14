@@ -21,3 +21,22 @@ This portfolio includes hands-on examples of:
 - SOC 2 Audit Simulation
 - ISO 27001 ISMS
 - NIST CSF Implementation
+## Business Impact Analysis
+
+Failure to implement proper access controls could result in:
+- Unauthorized access to sensitive customer data
+- Regulatory non-compliance
+- Financial and reputational damage
+
+## Risk Priority Justification
+
+This risk is classified as HIGH because:
+- High likelihood due to lack of MFA
+- High impact due to exposure of critical systems
+
+## Residual Risk
+
+After mitigation (MFA + access reviews), risk is reduced to:
+- Likelihood: 2
+- Impact: 4
+- Score: 8 (Moderate)

@@ -34,3 +34,6 @@ Risks are evaluated using:
 
 ## Outcome
 This risk was prioritized as high and requires immediate remediation to reduce exposure.
+## Scenario Context
+
+All projects in this portfolio are based on a fictional SaaS company to simulate real-world GRC responsibilities, including risk management, audit support, and control implementation.

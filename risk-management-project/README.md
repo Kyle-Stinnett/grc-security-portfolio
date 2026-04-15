@@ -1,6 +1,9 @@
 # Risk Management Project
-
 This project demonstrates a practical approach to identifying, assessing, and mitigating cybersecurity risks in a mid-sized enterprise environment.
+
+## Program Perspective
+
+This portfolio reflects how a GRC analyst would support and scale a security and compliance program within a SaaS organization, including risk management, control implementation, audit readiness, and continuous improvement.
 
 ## Business Context
 

@@ -57,3 +57,13 @@ Examples of evidence an auditor would review include:
 - Track control failures
 - Update policies and procedures
 - Improve automation for access reviews
+
+## Scalability Considerations
+
+In a larger organization:
+
+- Access reviews would be automated and segmented by department or system ownership  
+- Vendor risk assessments would be tracked in a centralized GRC or ticketing system  
+- Control monitoring would require dashboards and reporting for leadership visibility  
+
+This approach ensures the control environment remains effective as the organization grows.

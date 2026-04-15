@@ -1,5 +1,9 @@
 # SOC 2 Access Control Implementation Blueprint
 
+## Program Objective
+
+Design a unified access control framework that reduces risk, supports audit requirements, and scales with organizational growth.
+
 ## Objective
 Design and implement access control processes aligned with SOC 2 (CC6), ISO 27001 (A.9), and NIST 800-53 (AC).
 

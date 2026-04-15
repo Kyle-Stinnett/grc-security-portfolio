@@ -34,6 +34,15 @@ Applies to all systems storing or processing customer data.
 - Screenshots of MFA enforcement
 - Access review approvals
 
+## Implementation Evidence (Audit Artifacts)
+
+Examples of evidence an auditor would review include:
+
+- Screenshots of MFA enforcement in identity providers (e.g., AWS IAM, Okta)
+- Exported user access lists (CSV format)
+- Access request and approval tickets from a ticketing system
+- Quarterly access review sign-off documentation
+
 ## Metrics (KPIs)
 - % of users covered by MFA
 - % of access reviews completed on time

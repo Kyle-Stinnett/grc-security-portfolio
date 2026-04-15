@@ -1,21 +1,12 @@
 # Risk Management Project
 This project demonstrates a practical approach to identifying, assessing, and mitigating cybersecurity risks in a mid-sized enterprise environment.
 
-## Program Perspective
-
-This portfolio reflects how a GRC analyst would support and scale a security and compliance program within a SaaS organization, including risk management, control implementation, audit readiness, and continuous improvement.
-
 ## Business Context
 
 This scenario represents a SaaS organization responsible for protecting sensitive customer data, where inadequate access controls could result in regulatory, financial, and reputational impact.
 
 ## Scenario
 A fictional SaaS company handling customer data lacks formalized security controls, increasing the risk of unauthorized access and data exposure.
-
-## Scenario Context
-All projects simulate a SaaS company handling sensitive customer data, requiring strong security and compliance controls.
-
-All projects in this portfolio are based on a fictional SaaS company to simulate real-world GRC responsibilities, including risk management, audit support, and control implementation.
 
 ## Methodology
 Risks are evaluated using:
@@ -38,13 +29,42 @@ Risks are evaluated using:
 - Implement MFA across all systems
 - Conduct quarterly access reviews
 - Enforce least privilege access
-  
-## Stakeholder Coordination
 
+## Evidence Request List (Audit Support)
+
+As part of audit preparation, the following evidence would be requested to validate control effectiveness:
+
+### Access Control
+- User access list (including roles and permissions)
+- Evidence of MFA enforcement (screenshots or configuration export)
+- Access review documentation (quarterly reviews, approvals)
+
+### Change Management
+- Change request tickets
+- Approval records for system changes
+- Deployment logs or release documentation
+
+### Logging & Monitoring
+- Sample system logs
+- Evidence of log review processes
+- Alerts or incident tickets generated from monitoring tools
+
+### Backup & Recovery
+- Backup configuration documentation
+- Evidence of recent backup tests
+- Recovery test results
+
+## Purpose
+
+This evidence ensures that implemented controls are functioning as intended and can be validated during an audit.
+
+Regular follow-ups would be conducted to ensure remediation timelines are met.
+
+## Stakeholder Coordination
 To remediate this risk, I would work with:
-- Engineering teams to implement MFA
-- IT administrators to enforce access controls
-- Management to review and approve access changes
+- Engineering teams to implement MFA  
+- IT administrators to enforce access controls  
+- Management to review and approve access changes  
 
 Regular follow-ups would be conducted to ensure remediation timelines are met.
 

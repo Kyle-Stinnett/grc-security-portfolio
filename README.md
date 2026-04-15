@@ -1,3 +1,7 @@
+## My Role
+
+In these scenarios, I operate as a GRC analyst responsible for risk identification, control design, audit support, and cross-functional coordination to ensure compliance and security objectives are met.
+
 ## Program Perspective
 
 This portfolio reflects how a GRC analyst would support and scale a security and compliance program within a SaaS organization, including risk management, control implementation, audit readiness, and continuous improvement.
@@ -8,7 +12,8 @@ This portfolio reflects the design and implementation of a scalable GRC program,
 
 ## GRC Program Workflow (Simplified)
 
-```mermaid
+
+mermaid
 flowchart TD
     A[Risk Identification] --> B[Control Design]
     B --> C[Control Implementation]

@@ -63,6 +63,12 @@ These challenges would be addressed through prioritization, escalation, and clea
 ## Outcome
 This risk was prioritized as high and requires immediate remediation to reduce exposure.
 
+## Success Metrics
+
+- 87% of systems with MFA enabled  
+- Number of access violations identified and remediated  
+- Time to remediate identified risks  
+
 ## Key Takeaway
 
 Effective risk management requires not only identifying and mitigating risks, but also coordinating across teams, managing real-world challenges, and ensuring sustained control effectiveness.

@@ -4,4 +4,4 @@ This portfolio reflects how a GRC analyst would support and scale a security and
 
 ## What This Demonstrates
 
-This portfolio reflects my ability to support and scale a GRC program through risk management, control implementation, audit readiness, and cross-functional coordination within a SaaS environment.
+This portfolio reflects the design and implementation of a scalable GRC program, aligning security controls with business objectives while ensuring audit readiness and operational efficiency.

@@ -12,8 +12,7 @@ This portfolio reflects the design and implementation of a scalable GRC program,
 
 ## GRC Program Workflow (Simplified)
 
-
-mermaid
+```mermaid
 flowchart TD
     A[Risk Identification] --> B[Control Design]
     B --> C[Control Implementation]
